@@ -1,41 +1,32 @@
-# Prerequisites
-*.d
+# macOS
+.DS_Store
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
 
-# Precompiled Headers
-*.gch
-*.pch
+# Node
+node_modules/
 
-# Linker files
-*.ilk
+# Logs
+*.log
 
-# Debugger Files
-*.pdb
+# Environment files
+.env
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# Compiled source #
+*.com
+*.class
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
 *.exe
-*.out
-*.app
+*.o
+*.so
 
-# debug information files
-*.dwo
+# VSCode
+.vscode/
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
