@@ -1,7 +1,5 @@
+⭐⭐ 如果这个项目对你有帮助，请给个 Star！⭐⭐
 
-⭐ 如果这个项目对你有帮助，请给个 Star！
-
-![Fire Detection Demo](https://via.placeholder.com/800x400?text=Fire+Detection+Demo)
 
 # YOLOv8 火灾烟雾检测系统
 
@@ -103,7 +101,9 @@ yolov8-fire-smoke-detection/
 │   └── yolov8_trt_demo.cpp    # 检测器实现
 ├── xmake.lua                   # XMake 构建配置
 ├── classes.txt                 # 类别标签文件
-└── README.md     # 项目说明文档
+├── firesmog.engine             # 自己添加一个engine引擎文件
+├── README.md                   # 项目说明文档
+└── firesmog.mp4         # 自己添加一个mp4
 ```
 
 ## 🔧 配置说明
@@ -249,7 +249,14 @@ xmake run yolov8_demo
 - [OpenCV](https://opencv.org/) - 计算机视觉库
 - [XMake](https://xmake.io/) - 现代化构建工具
 
+## 📞 联系方式
 
+如有问题或建议，请通过以下方式联系：
+
+- 项目 Issues: [GitHub Issues](https://github.com/你的用户名/yolov8-fire-smoke-detection/issues)
+- 邮箱: your.email@example.com
+
+---
 
 ⭐ 如果这个项目对你有帮助，请给个 Star！
 
