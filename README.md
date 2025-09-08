@@ -249,15 +249,9 @@ xmake run yolov8_demo
 - [OpenCV](https://opencv.org/) - 计算机视觉库
 - [XMake](https://xmake.io/) - 现代化构建工具
 
-## 📞 联系方式
 
-如有问题或建议，请通过以下方式联系：
+-----------------
 
-- 项目 Issues: [GitHub Issues](https://github.com/你的用户名/yolov8-fire-smoke-detection/issues)
-- 邮箱: your.email@example.com
+⭐ 如果这个项目对你有帮助，请给个 Star！ ⭐ 
 
----
-
-⭐ 如果这个项目对你有帮助，请给个 Star！
-
-![Fire Detection Demo](https://via.placeholder.com/800x400?text=Fire+Detection+Demo)
+  
