@@ -56,7 +56,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/你的用户名/yolov8-fire-smoke-detection.git
+git clone https://github.com/Bayesianovich/yolov8-fire-smoke-detection.git
 cd yolov8-fire-smoke-detection
 ```
 
@@ -253,5 +253,6 @@ xmake run yolov8_demo
 -----------------
 
 ⭐ 如果这个项目对你有帮助，请给个 Star！ ⭐ 
+
 
   
